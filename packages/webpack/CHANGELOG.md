@@ -1,5 +1,11 @@
 # @prefresh/webpack
 
+## 0.7.2
+
+### Patch Changes
+
+- [`cdc44c3`](https://github.com/JoviDeCroock/prefresh/commit/cdc44c3d18ff387675725e72dc217a7794ac3993) [#65](https://github.com/JoviDeCroock/prefresh/pull/65) Thanks [@JoviDeCroock](https://github.com/JoviDeCroock)! - Bump @prefresh/core and utils in the webpack integration
+
 ## 0.7.1
 
 ### Patch Changes
